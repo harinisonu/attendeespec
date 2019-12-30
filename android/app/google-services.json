@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370453437332",
+    "firebase_url": "https://attendance-intellect.firebaseio.com",
+    "project_id": "attendance-intellect",
+    "storage_bucket": "attendance-intellect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370453437332:android:0f63692413c2281ab20d81",
+        "android_client_info": {
+          "package_name": "com.intellect.attendees_spec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370453437332-67aghb1rl6uuk5penllno3p3pl97rb9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEyzBXxl1Slk8Mj853-rsV-uFCs4Jtyvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370453437332-67aghb1rl6uuk5penllno3p3pl97rb9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
